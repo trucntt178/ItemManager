@@ -11,18 +11,15 @@
 ## :fire: Demo:
 * Login
 
-[![login.png](https://i.postimg.cc/9fgrHcvd/login.png)](https://postimg.cc/B8DqxfZb)
+<img src="https://i.postimg.cc/9fgrHcvd/login.png"/>
 
-[![Supplier.png](https://i.postimg.cc/MKyLPD4w/Supplier.png)](https://postimg.cc/rKwgzSMZ)
+<img src="https://i.postimg.cc/MKyLPD4w/Supplier.png" width="60%"/>
 
-[![AddItem1.png](https://i.postimg.cc/j2yM1xMc/AddItem1.png)](https://postimg.cc/1V50nQhV)
+<img src="https://i.postimg.cc/j2yM1xMc/AddItem1.png" width="60%"/> 
+<img src="https://i.postimg.cc/L6ByBsY6/AddItem2.png" width="60%"/>
 
-[![AddItem2.png](https://i.postimg.cc/L6ByBsY6/AddItem2.png)](https://postimg.cc/N5F7QBkW)
+<img src="https://i.postimg.cc/RZZT7LxX/Update-Item1.png" width="60%"/>
+<img src="https://i.postimg.cc/pr0mR8cL/Update-Item2.png" width="60%"/>
 
-[![Update-Item1.png](https://i.postimg.cc/RZZT7LxX/Update-Item1.png)](https://postimg.cc/4mjtZtd9)
-
-[![Update-Item2.png](https://i.postimg.cc/pr0mR8cL/Update-Item2.png)](https://postimg.cc/XBCjgZ0R)
-
-[![Delete1.png](https://i.postimg.cc/pdZxwv62/Delete1.png)](https://postimg.cc/mct09v4q)
-
-[![Delete2.png](https://i.postimg.cc/6Q3txgJn/Delete2.png)](https://postimg.cc/9DvvGxfQ)
+<img src="https://i.postimg.cc/pdZxwv62/Delete1.png" width="60%"/>
+<img src="https://i.postimg.cc/6Q3txgJn/Delete2.png" width="60%"/>
