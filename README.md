@@ -10,12 +10,12 @@
 
 ## :fire: Demo:
 * Login
-<img src="https://i.postimg.cc/9fgrHcvd/login.png"/>
+  * <img src="https://i.postimg.cc/9fgrHcvd/login.png"/>
 * Manage Supplier
-<img src="https://i.postimg.cc/MKyLPD4w/Supplier.png" width="60%"/>
+  <img src="https://i.postimg.cc/MKyLPD4w/Supplier.png" width="60%"/>
 * Manage Item
-  - Add a new item
-<img src="https://i.postimg.cc/j2yM1xMc/AddItem1.png" width="60%"/> 
+  * Add a new item
+    <img src="https://i.postimg.cc/j2yM1xMc/AddItem1.png" width="60%"/> 
 <img src="https://i.postimg.cc/L6ByBsY6/AddItem2.png" width="60%"/>
   - Update an item
 <img src="https://i.postimg.cc/RZZT7LxX/Update-Item1.png" width="60%"/>
